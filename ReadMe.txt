@@ -33,3 +33,6 @@ Example: SleepingPill
 Example: SleepingPill_x86 /time:120 -idle:15 verbose
   Put a 32-bit computer to sleep when a screen saver has been running for
   2 min. and there are no SYSTEM requests for 15 seconds, report details.
+
+For more details, see the SleepingPill and TaskScheduler.zip file in this repository.
+It contains screen shots of Task Scheduler and more detaild instructions for set up.
