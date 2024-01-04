@@ -64,3 +64,6 @@ Example: SleepingPill_x86 /time:120 -idle:15 verbose
 
 For more details, see the 'SleepingPill and TaskScheduler.zip' file in this repository.
 It contains screen shots of Task Scheduler and more detailed instructions for set up.
+
+The program.cs file contains the bulk of the software for anyone interested in seeing how I did it. I welcome comments/suggestions. The main thing that's not included is the StringTable.resx file and the icon file. If someone wishes to build it himself, I can
+include all of the ancillary project files. I used VisualStudio 2013 (a bit old, I know).
